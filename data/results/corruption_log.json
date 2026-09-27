@@ -1,0 +1,45 @@
+{
+  "total_records_before": 24,
+  "total_records_after": 22,
+  "corruptions_applied": [
+    {
+      "corruption": "drop_latest_records",
+      "impacted_count": 4,
+      "description": "\u0110\u00e3 lo\u1ea1i b\u1ecf 4 b\u1ea3n ghi m\u1edbi nh\u1ea5t (20% d\u1eef li\u1ec7u)."
+    },
+    {
+      "corruption": "blank_summary",
+      "impacted_ids": [
+        "10.1145/3637528.3671802",
+        "10.1145/3637528.3671824"
+      ],
+      "description": "X\u00f3a r\u1ed7ng tr\u01b0\u1eddng summary tr\u00ean 2 b\u1ea3n ghi."
+    },
+    {
+      "corruption": "inject_noise",
+      "impacted_ids": [
+        "10.1145/3637528.3671823",
+        "10.1145/3637528.3671822"
+      ],
+      "description": "Ch\u00e8n k\u00fd t\u1ef1 nhi\u1ec5u r\u00e1c v\u00e0o summary tr\u00ean 2 b\u1ea3n ghi."
+    },
+    {
+      "corruption": "truncate_title",
+      "impacted_ids": [
+        "10.1145/3637528.3671821",
+        "10.1145/3637528.3671810"
+      ],
+      "description": "C\u1eaft ng\u1eafn title xu\u1ed1ng '< 8 k\u00fd t\u1ef1' tr\u00ean 2 b\u1ea3n ghi."
+    },
+    {
+      "corruption": "stale_date",
+      "impacted_count": 7,
+      "description": "L\u00f9i ng\u00e0y xu\u1ea5t b\u1ea3n v\u1ec1 1990-01-01 tr\u00ean 7 b\u00e0i b\u00e1o, k\u00edch ho\u1ea1t c\u1ea3nh b\u00e1o Freshness SLA."
+    },
+    {
+      "corruption": "duplicate_rows",
+      "impacted_count": 2,
+      "description": "Nh\u00e2n b\u1ea3n 2 d\u00f2ng d\u1eef li\u1ec7u, vi ph\u1ea1m t\u00ednh duy nh\u1ea5t (ExpectColumnValuesToBeUnique)."
+    }
+  ]
+}
