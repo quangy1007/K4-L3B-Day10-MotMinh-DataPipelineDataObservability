@@ -10,7 +10,7 @@
 
 | STT | Họ và tên | MSSV | Email | Vai trò & Phân công công việc | Báo cáo cá nhân |
 |---:|---|---|---|---|---|
-| 1 | **Đậu Quang Ý** | **2A202602661** | `2a202602661@vinuni.edu.vn` | Trưởng nhóm / Pipeline Integrator (`core/`, `phase1.py`, `corruption_flow.py`) | [`report/2A202602661_DauQuangY.md`](../report/2A202602661_DauQuangY.md) |
+| 1 | **Đậu Quang Ý** | **2A202602661** | `dauquangy5689@gmail.com` | Trưởng nhóm / Pipeline Integrator (`core/`, `phase1.py`, `corruption_flow.py`) | [`report/2A202602661_DauQuangY.md`](../report/2A202602661_DauQuangY.md) |
 | 2 | Trần Thị B | 2A202602662 | `tranb@vinuni.edu.vn` | Data Foundation & Recovery (`crossref.py`, `cleaning.py`, raw data) | `report/2A202602662_TranThiB.md` |
 | 3 | Lê Hoàng C | 2A202602663 | `lec@vinuni.edu.vn` | RAG & Vector Index (`retrieval/index.py`, `embeddings.py`, ChromaDB) | `report/2A202602663_LeHoangC.md` |
 | 4 | Phạm Minh D | 2A202602664 | `phamd@vinuni.edu.vn` | Observability & Evaluation (`quality.py` GX 1.x, `testset.py`, reporting) | `report/2A202602664_PhamMinhD.md` |
