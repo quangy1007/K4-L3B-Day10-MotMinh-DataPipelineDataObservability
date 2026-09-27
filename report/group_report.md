@@ -5,8 +5,8 @@
 | Thông tin         | Nội dung                  |
 | ------------------ | -------------------------- |
 | Khóa/Lớp         | K4 - L3B                  |
-| Tên nhóm         | Team DataGuard            |
-| Repository         | `K4-L3B-DAY10-TeamDataGuard-DataPipelineDataObservability` |
+| Tên nhóm         | MotMinh                   |
+| Repository         | `https://github.com/quangy1007/K4-L3B-Day10-MotMinh-DataPipelineDataObservability` |
 | Ngày hoàn thành | 2026-09-27               |
 
 ### Thành viên và phân công

@@ -1,8 +1,8 @@
 # Danh Sách Thành Viên & Báo Cáo Phân Công Nhóm
 
-- **Tên Nhóm:** `Team DataGuard`
+- **Tên Nhóm:** `MotMinh`
 - **Mã Nhóm / Lớp:** `K4-L3B-DAY10`
-- **Tên Repository Nộp Bài:** `K4-L3B-DAY10-TeamDataGuard-DataPipelineDataObservability`
+- **Tên Repository Nộp Bài:** `K4-L3B-Day10-MotMinh-DataPipelineDataObservability`
 
 ---
 
